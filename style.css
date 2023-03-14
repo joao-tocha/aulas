@@ -12,3 +12,16 @@
     align-items: center;
     padding: 24px 0;
 }
+
+.programacao-titulo {
+    padding: 24px 0;
+}
+
+.programacao-texto {
+    padding: 6px 0;
+}
+
+.programacao-conteudo {
+    text-align: justify;
+    width: 50%;
+}
