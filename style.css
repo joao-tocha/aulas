@@ -40,3 +40,22 @@
     padding: 24px 0;
 }
 
+.ferramenta-titulo{
+    text-align: center;
+    padding: 50px 0;
+}
+
+.ferramenta-grid {
+    display:grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+.ferramenta-imagem{
+    width: 75%;
+}
+
+.ferramenta-div {
+    text-align: center;
+    align-self: center;
+    padding-bottom: 20%;
+}
