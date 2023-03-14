@@ -31,3 +31,12 @@
     width: 30%;
     padding-left: 5%;
 }
+
+.ferramenta {
+    background-image: linear-gradient(#969696, #163513);
+    color: white;
+    justify-content:center;
+    align-items: center;
+    padding: 24px 0;
+}
+
