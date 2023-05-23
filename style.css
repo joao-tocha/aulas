@@ -8,7 +8,17 @@
 html{
     scroll-behavior: smooth;
     background-image: linear-gradient(#012e53, #010f4e, #46036d);
+    
 }
+/* 
+body{
+    background-size:50%;
+    background-color: #030124;
+    background-image: url("img/cabecalho.png");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-attachment: fixed;
+} */
 
 /* The navigation bar */
 .navbar {
